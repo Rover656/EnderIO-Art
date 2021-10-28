@@ -1,3 +1,6 @@
+# DISCONTINUED:
+Turns out the submodule idea causes more pain than good; this has been moved back into [EnderIO-Rewrite](https://github.com/Rover656/EnderIO-Rewrite).
+
 # EnderIO-Art
 This is a repository for storing the art assets for EnderIO, allowing us to separate code and assets during the rewrite.
 
